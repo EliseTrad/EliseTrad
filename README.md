@@ -38,13 +38,6 @@ I’m passionate about mathematical thinking, clean system design, and structure
 
 ---
 
-🌍 **Languages:**  
-- Arabic (Native)  
-- English (Full Professional)  
-- French (Professional)
-
----
-
 📫 **Contact:**  
 - 📧 [elisetrad9@gmail.com](mailto:elisetrad9@gmail.com)  
 - 💼 [LinkedIn](http://linkedin.com/in/elisetrad)  
