@@ -22,5 +22,6 @@ Hi, I’m Elise. I’m a Computer Science student at the University of Balamand,
 ## Contact
 
 - Email: elisetrad9@gmail.com  
-Connect on LinkedIn!: [linkedin.com/in/elisetrad](https://linkedin.com/in/elisetrad)  
+
+Let's connect on [LinkedIn](https://linkedin.com/in/elisetrad) :) 
 
