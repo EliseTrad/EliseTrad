@@ -1,47 +1,26 @@
-# 👋 Hi, I’m Elise Trad
+# Elise Trad — Computer Science Student
 
-**Computer Science student | System Design Enthusiast | Code Logic Explorer**
+Hi, I’m Elise. I’m a Computer Science student at the University of Balamand, focused on system design, code logic, and problem-solving. I enjoy building projects that combine clean architecture with practical functionality.
 
----
+## Projects
 
-🎓 **Education:**  
-_B.Sc. in Computer Science, University of Balamand (2023–2026)_  
-- GPA: 3.79 / 4.0  
-- Rank: 2 / 31  
-- Dean’s Honor List (All Semesters)  
-- Developers Club — Social Media Manager
+- **MathShooter** — Educational browser game for kids, combining platforming and math challenges.  
+  [Repository](https://github.com/EliseTrad/MathShooter)
 
----
+- **MathWithMarcy** — Full-stack math learning platform using React (TypeScript), NestJS, Redux, GraphQL, PostgreSQL, JWT authentication, real-time answer validation, and an AI assistant.  
+  [Repository](https://github.com/EliseTrad/MathWithMarcy)
 
-💻 **About Me:**  
-I’m passionate about mathematical thinking, clean system design, and structured problem solving. I’m drawn to the logic behind code and the elegance of well-organized systems. My commitment is to clarity, simplicity, and continuous improvement—both through coursework and personal projects.
+- **GradAppTracker** — Graduate application management system with JavaFX frontend and Spring Boot backend, featuring JWT authentication, PostgreSQL integration, and application tracking.  
+  [Repository](https://github.com/EliseTrad/GradAppTracker)
 
----
+- **InternTracker** — Internship management platform built with Node.js, Express, MySQL, and EJS. Implements authentication, role-based access, smart filtering, and Excel export.  
+  [Repository](https://github.com/EliseTrad/InternTracker)
 
-🛠️ **Experience:**  
-**Eurisko** — AI & Full-Stack Developer Trainee  
-- Built a scalable microservices e-commerce platform (React, Flask, MySQL, distributed systems, caching, real-time inventory)
-- Developed a RAG-based AI assistant for automated FAQs
-- Designed and deployed an LLM pipeline with prompt engineering and Flask APIs  
-  👉 [See my Eurisko work: livedrop repo](https://github.com/EliseTrad/livedrop-EliseTrad)
+- **Restaurant Order Management System** — High-performance C++ application using dynamic arrays, FIFO queues, and LIFO stacks for order processing, menu management, and revenue tracking.  
+  [Repository](https://github.com/EliseTrad/restaurant-order-management-system)
 
-**Compu-Vision** — Full-Stack Web Development Intern  
-- Developed responsive portfolio and calculator apps (HTML5, CSS3, JS, Bootstrap, PHP)
-- Shadowed an Agile scrum master, contributing to planning, stand-ups, and retrospectives
+## Contact
 
----
+- Email: elisetrad9@gmail.com  
+Connect on LinkedIn!: [linkedin.com/in/elisetrad](https://linkedin.com/in/elisetrad)  
 
-🚀 **Highlighted Projects:**  
-- **[InternTracker](https://github.com/EliseTrad/InternTracker)** – Platform for managing internship applications, resumes, interviews (Node.js, Express, MySQL, EJS, authentication, smart filters, Excel export)
-- **[Restaurant Order Management System](https://github.com/EliseTrad/restaurant-order-management-system)** – High-performance C++ app for orders, menus, and payments (dynamic arrays, FIFO/LIFO, fast revenue tracking)
-- **[Library Management System](https://github.com/EliseTrad/library-management-system)** – Java console app for library resource management (OOP, CRUD, borrowing/return, file persistence)
-
----
-
-📫 **Contact:**  
-- 📧 [elisetrad9@gmail.com](mailto:elisetrad9@gmail.com)  
-- 💼 [LinkedIn](http://linkedin.com/in/elisetrad)  
-
----
-
-*Let’s connect and build something great!*
