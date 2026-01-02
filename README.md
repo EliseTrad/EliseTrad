@@ -1,6 +1,6 @@
-# Elise Trad — Computer Science Student
+# Hi, I’m Elise. 
 
-Hi, I’m Elise. I’m a Computer Science student at the University of Balamand, focused on system design, code logic, and problem-solving. I enjoy building projects that combine clean architecture with practical functionality.
+I’m a Computer Science student at the University of Balamand, focused on system design, code logic, and problem-solving. I enjoy building projects that combine clean architecture with practical functionality.
 
 ## Projects
 
