@@ -1,7 +1,5 @@
 # Hi, I’m Elise. 
 
-I’m a Computer Science student at the University of Balamand, focused on system design, code logic, and problem-solving. I enjoy building projects that combine clean architecture with practical functionality.
-
 ## Projects
 
 - **MathShooter** — Educational browser game for kids, combining platforming and math challenges.  
